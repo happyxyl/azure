@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://adslgen1test.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "a0889778-762b-4ede-93f1-b0f3a2bca853",
+			"subscriptionId": "336e5c37-6b5f-4c56-a8c7-5e37bddba4b3",
+			"resourceGroupName": "DataManagement"
+		}
+	}
+}
