@@ -1,0 +1,9 @@
+{
+	"name": "ADFTestCopyData",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "775ac702-80a4-4283-8e1c-bc74ef852484",
+		"tenantId": "a0889778-762b-4ede-93f1-b0f3a2bca853"
+	}
+}
